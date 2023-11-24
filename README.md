@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">A german Student in a development Apprenticeship.</h3>
 
-- I’m currently working on **a personal Java Project**
-
 - I’m currently learning **Java**
 
 - How to reach me **on Discord: lukasger**
